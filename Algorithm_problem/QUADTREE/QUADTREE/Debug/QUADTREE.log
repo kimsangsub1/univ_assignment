@@ -1,0 +1,7 @@
+﻿  QUADTREE.cpp
+c:\users\woald\source\repos\quadtree\quadtree\quadtree.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\woald\source\repos\quadtree\quadtree\quadtree.cpp(1): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\woald\source\repos\quadtree\quadtree\quadtree.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': 매크로가 정의되지 않았거나 미리 컴파일된 헤더 사용 후와 정의가 다릅니다.
+  c:\users\woald\source\repos\quadtree\quadtree\quadtree.cpp(1): note: 여기에서 정의하지 않고 미리 컴파일된 헤더에 매크로 추가
+  c:\users\woald\source\repos\quadtree\quadtree\quadtree.cpp(5): note: 미리 컴파일된 헤더 사용
+  QUADTREE.vcxproj -> C:\Users\woald\source\repos\QUADTREE\Debug\QUADTREE.exe

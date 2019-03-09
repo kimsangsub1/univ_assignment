@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\woald\source\repos\youngjoonbfs\youngjoonbfs\main.cpp(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\woald\source\repos\youngjoonbfs\youngjoonbfs\main.cpp(121): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  YOUNGJOONBFS.vcxproj -> C:\Users\woald\source\repos\YOUNGJOONBFS\Debug\YOUNGJOONBFS.exe

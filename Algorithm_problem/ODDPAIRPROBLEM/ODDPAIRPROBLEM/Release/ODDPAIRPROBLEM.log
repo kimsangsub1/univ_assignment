@@ -1,0 +1,10 @@
+﻿  ODDPAIRPROBLEM.cpp
+c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(28): error C2872: 'data': 모호한 기호입니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(9): note: 'int data[1000001]'일 수 있습니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(28): note: 또는       'data'
+c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(31): error C2872: 'data': 모호한 기호입니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(9): note: 'int data[1000001]'일 수 있습니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(31): note: 또는       'data'
+c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(40): error C2872: 'data': 모호한 기호입니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(9): note: 'int data[1000001]'일 수 있습니다.
+  c:\users\woald\source\repos\oddpairproblem\oddpairproblem\oddpairproblem.cpp(40): note: 또는       'data'
