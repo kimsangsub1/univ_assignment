@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\insung ihm\desktop\work\teaching\cseg437\강의자료\codes\workspace\simple_simt\simple_simt\main.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\insung ihm\desktop\work\teaching\cseg437\강의자료\codes\workspace\simple_simt\simple_simt\main.cpp(19): fatal error C1083: 포함 파일을 열 수 없습니다. 'CL/cl.h': No such file or directory
